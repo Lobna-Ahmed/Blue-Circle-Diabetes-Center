@@ -15,5 +15,5 @@ Landing page:
 | Toka     | Social media posts - Presentation                                   |
 | Tasbeeh  | Interior and entrance - Prints and Merch                            |
 | Mariem   | Social media posts - Booklet                                        |
-| Sohaila  | Staff uniforms - Medical status file                                |
+| Sohaila  | Staff uniforms - Patient file                                       |
 | Hager    | Medical kit - Fliers                                                |
