@@ -13,7 +13,7 @@ Landing page:
 |:---------|:-------------------------------------------------------------------:|
 | Lobna    | Logo - Social media posts - Billboards and signs - Landing page     |
 | Toka     | Social media posts - Presentation                                   |
-| Tasbeeh  | Interior and intrance - Prints and Merch                            |
+| Tasbeeh  | Interior and entrance - Prints and Merch                            |
 | Mariem   | Social media posts - Booklet                                        |
 | Sohaila  | Staff uniforms - Medical status file                                |
 | Hager    | Medical kit - Fliers                                                |
