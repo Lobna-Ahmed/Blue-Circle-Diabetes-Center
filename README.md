@@ -16,4 +16,4 @@ Landing page:
 | Tasbeeh  | Interior and entrance - Prints and Merch                            |
 | Mariem   | Social media posts - Booklet                                        |
 | Sohaila  | Staff uniforms - Patient file                                       |
-| Hager    | Bag - Fliers                                                     |
+| Hager    | Backpack - Fliers                                                   |
