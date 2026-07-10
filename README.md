@@ -7,4 +7,12 @@ Drafts and brainstorming:
 Landing page:
 [View Website](https://glu-care.vercel.app/)
 
+| Name     | Tasks                                                               |
+|:---------|:-------------------------------------------------------------------:|
+| Lobna    | Logo - Social media posts - Billboards and signs - Landing page     |
+| Toka     | Social media posts - Presentation                                   |
+| Tasbeeh  | Interior and entrance - Prints and Merch                            |
+| Mariem   | Social media posts - Booklet                                        |
+| Sohaila  | Staff uniforms - Patient file                                       |
+| Hager    | Backpack                                                            |
 
